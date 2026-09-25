@@ -15,4 +15,4 @@ class Solution {
     }
 }
 const solution = new Solution();    // create an object from the Solution class
-console.log(solution.hasDuplicate([1, 2, 3, 3]));
+console.log(solution.hasDuplicate([1, 2, 3, 4]));
